@@ -1,0 +1,68 @@
+[
+    {
+       "id": 1,
+       "title": "lapiceras",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 2,
+       "title": "témperas",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 3,
+       "title": "lápices",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 4,
+       "title": "colores",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 5,
+       "title": "escuadras",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 6,
+       "title": "reglas",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 7,
+       "title": "pinceles",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 8,
+       "title": "gomas",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 9,
+       "title": "carpetas",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 10,
+       "title": "cartucheras",
+       "price": 100,
+       "stock": true
+    },
+    {
+       "id": 11,
+       "title": "cartucheras 2p",
+       "price": "1200",
+       "stock": "true"
+    }
+ ]
